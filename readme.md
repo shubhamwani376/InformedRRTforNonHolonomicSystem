@@ -4,10 +4,10 @@
 
 ## Implementation
 This project implements the following features:
-1.Motion primitive generation using bicycle model to grow tree.
-2.Find closest point in RR Tree and extend trees to cover entire area. 
-3.Structs used to store data for nodes i.e. distance, parents, cost etc.
-4.Sampling area decreases and the shortest path among those found is shown.
+1. Motion primitive generation using bicycle model to grow tree.
+2. Find closest point in RR Tree and extend trees to cover entire area. 
+3. Structs used to store data for nodes i.e. distance, parents, cost etc.
+4. Sampling area decreases and the shortest path among those found is shown.
 
 ## Conclusion
 1. Tested in a simulated environment and was found to be successful at guiding vehicles into parking spots and finding the shortest path to a destination.
