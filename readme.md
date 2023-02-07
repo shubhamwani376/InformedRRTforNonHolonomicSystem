@@ -21,7 +21,7 @@ autonomous vehicles.
 
 ## Video
 ![RRT](https://github.com/shubhamwani376/InformedRRTforNonHolonomicSystem/blob/main/Images/RRTwithObstacle.gif)
-![IRRT](https://github.com/shubhamwani376/InformedRRTforNonHolonomicSystem/blob/main/Images/RRTwithObstacle.gif)
+![IRRT](https://github.com/shubhamwani376/InformedRRTforNonHolonomicSystem/blob/main/Images/InformedRRTwithObstacle.gif)
 
 ## Dependencies
 ```
